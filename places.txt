@@ -1,0 +1,235 @@
+# kategorija|sunkumas|tipas|pavadinimas|lt.wikipedia straipsnis|veiksmažodis|faktas|@platuma,ilguma (tik jei Wikipedia ir Wikidata koordinačių neturi; šaltinis – OSM)
+# kategorija: m miestai, p pilys/dvarai/piliakalniai, v vandenys, g gamta, i įdomybės
+# sunkumas: 1 lengvas, 2 vidutinis, 3 sunkus
+# tipas: p taškas, a plotas (OSM poligonas), l linija (OSM upės vaga), rN taškas su N km spinduliu
+m|1|p|Vilnius|Vilnius|yra|Lietuvos sostinė; nuo 1579 m. – universitetinis miestas.
+m|1|p|Kaunas|Kaunas|yra|Antras pagal dydį Lietuvos miestas Nemuno ir Neries santakoje, tarpukariu – laikinoji sostinė.
+m|1|p|Klaipėda|Klaipėda|yra|Trečias pagal dydį Lietuvos miestas ir uostas ten, kur Kuršių marios susilieja su Baltijos jūra.
+m|1|p|Šiauliai|Šiauliai|yra|Ketvirtas pagal gyventojų skaičių Lietuvos miestas; 12 km į šiaurę nuo jo – Kryžių kalnas.
+m|1|p|Panevėžys|Panevėžys|yra|Penktas pagal dydį Lietuvos miestas, išsidėstęs abipus Nevėžio.
+m|1|p|Alytus|Alytus|yra|Didžiausias pietų Lietuvos miestas, šeštas pagal dydį šalyje.
+m|1|p|Marijampolė|Marijampolė|yra|Neoficiali Suvalkijos (Sūduvos) sostinė, 56 km į pietvakarius nuo Kauno.
+m|1|p|Palanga|Palanga|yra|Kurortas prie Baltijos jūros, 25 km į šiaurę nuo Klaipėdos.
+m|1|p|Druskininkai|Druskininkai|yra|Seniausias Lietuvos kurortas (nuo 1794 m.) pačiuose šalies pietuose, netoli sienos su Baltarusija.
+m|1|p|Trakai|Trakai|yra|Miestas tarp ežerų, 30 km į vakarus nuo Vilniaus centro.
+m|1|p|Utena|Utena|yra|Miestas Utenos aukštumoje, 92 km į šiaurę nuo Vilniaus.
+m|1|p|Nida|Nida|yra|Kurortinė gyvenvietė Kuršių nerijoje, Neringos savivaldybės centras.
+m|2|p|Mažeikiai|Mažeikiai|yra|Miestas Žemaitijoje, 46 km į šiaurę nuo Telšių.
+m|2|p|Jonava|Jonava|yra|Miestas prie Neries, 30 km į šiaurės rytus nuo Kauno.
+m|2|p|Kėdainiai|Kėdainiai|yra|Miestas abipus Nevėžio, 51 km į šiaurę nuo Kauno; jo senamiestis – urbanistikos paminklas.
+m|2|p|Tauragė|Tauragė|yra|Miestas vakarų Lietuvoje, kairiajame Jūros upės krante.
+m|2|p|Telšiai|Telšiai|yra|Neoficiali Žemaitijos sostinė prie Masčio ežero.
+m|2|p|Ukmergė|Ukmergė|yra|Miestas Aukštaitijoje, 76 km nuo Vilniaus ir 71 km nuo Kauno.
+m|2|p|Visaginas|Visaginas|yra|Miestas, pastatytas Ignalinos atominės elektrinės darbuotojams.
+m|2|p|Plungė|Plungė|yra|Miestas abipus Babrungo upės, 27 km į vakarus nuo Telšių.
+m|2|p|Kretinga|Kretinga|yra|Vienas seniausių vakarų Lietuvos miestų, 13 km į rytus nuo Palangos.
+m|2|p|Šilutė|Šilutė|yra|Miestas netoli Kuršių marių, 50 km į pietus nuo Klaipėdos; iki Rusnės salos – 8 km.
+m|2|p|Birštonas|Birštonas|yra|Kurortas, garsėjantis mineraliniais vandenimis, tarp jų – „Vytautu“.
+m|2|p|Anykščiai|Anykščiai|yra|Miestas prie Šventosios, 33 km į vakarus nuo Utenos; čia yra siaurojo geležinkelio stotis.
+m|2|p|Biržai|Biržai|yra|Miestas šiaurės Lietuvoje netoli Latvijos sienos, 90 km į pietus nuo Rygos.
+m|2|p|Rokiškis|Rokiškis|yra|Miestas Lietuvos šiaurės rytuose, 60 km į šiaurę nuo Utenos.
+m|2|p|Zarasai|Zarasai|yra|Miestas šiaurės rytų Lietuvoje, 49 km nuo Utenos; kurortinė teritorija.
+m|2|p|Molėtai|Molėtai|yra|Miestas rytų Lietuvoje, 30 km į pietus nuo Utenos.
+m|2|p|Ignalina|Ignalina|yra|Miestas prie Vilniaus–Daugpilio geležinkelio, 110 km į šiaurę nuo Vilniaus.
+m|2|p|Jurbarkas|Jurbarkas|yra|Miestas dešiniajame Nemuno krante, istorinėje Karšuvos žemėje.
+m|2|p|Raseiniai|Raseiniai|yra|Miestas prie Žemaičių plento, 76 km į šiaurės vakarus nuo Kauno.
+m|2|p|Elektrėnai|Elektrėnai|yra|Miestas prie automagistralės Vilnius–Kaunas, 47 km į vakarus nuo Vilniaus.
+m|2|p|Varėna|Varėna|yra|Miestas pietų Lietuvoje, 51 km į pietryčius nuo Alytaus.
+m|2|p|Radviliškis|Radviliškis|yra|Svarbus geležinkelio mazgas, 21 km į pietryčius nuo Šiaulių.
+m|2|p|Kupiškis|Kupiškis|yra|Miestas 44 km į rytus nuo Panevėžio.
+m|2|p|Vilkaviškis|Vilkaviškis|yra|Miestas Suvalkijoje, 23 km į šiaurės vakarus nuo Marijampolės.
+m|3|p|Žagarė|Žagarė|yra|Miestas prie Latvijos sienos, 26 km nuo Joniškio; susiformavo iš dviejų miestelių.
+m|3|p|Rusnė|Rusnė|yra|Miestelis Rusnės saloje, Nemuno deltoje.
+m|3|p|Merkinė|Merkinė|yra|Miestelis Nemuno ir Merkio santakoje, Dzūkijos nacionaliniame parke.
+m|3|p|Veisiejai|Veisiejai|yra|Miestas 19 km į pietryčius nuo Lazdijų; čia įsikūrusi Veisiejų regioninio parko direkcija.
+m|3|p|Dusetos|Dusetos|yra|Miestas prie Sartų ežero, 25 km į vakarus nuo Zarasų.
+m|3|p|Seda|Seda|yra|Miestas prie Varduvos, 24 km į pietvakarius nuo Mažeikių.
+m|3|p|Vilkija|Vilkija|yra|Miestas dešiniajame Nemuno krante, 25 km į šiaurės vakarus nuo Kauno.
+m|3|p|Kybartai|Kybartai|yra|Miestas prie pat sienos su Kaliningrado sritimi, 16 km į vakarus nuo Vilkaviškio.
+m|3|p|Pabradė|Pabradė|yra|Miestas Žeimenos ir Dubingos santakoje, Švenčionių rajone.
+m|3|p|Eišiškės|Eišiškės|yra|Miestas prie sienos su Baltarusija, 33 km į pietvakarius nuo Šalčininkų.
+m|3|p|Obeliai|Obeliai|yra|Miestas 15 km į rytus nuo Rokiškio.
+m|3|p|Šeduva|Šeduva|yra|Miestas 18 km į rytus nuo Radviliškio; jo bažnyčia pastatyta 1649 m.
+m|3|p|Varniai|Varniai|yra|Miestas prie Varnelės upės, 33 km į pietus nuo Telšių.
+m|3|p|Salantai|Salantai|yra|Miestas abipus Salanto upės, 31 km į šiaurės rytus nuo Kretingos.
+m|3|p|Juodkrantė|Juodkrantė|yra|Antra pagal dydį Kuršių nerijos gyvenvietė, 18 km į pietus nuo Klaipėdos.
+m|3|p|Simnas|Simnas|yra|Miestas prie Simno ežero, 24 km į vakarus nuo Alytaus.
+m|3|p|Smalininkai|Smalininkai|yra|Miestas dešiniajame Nemuno krante, 12 km nuo Jurbarko.
+m|3|p|Kudirkos Naumiestis|Kudirkos Naumiestis|yra|Miestas Šešupės ir Širvintos santakoje, Suvalkijoje.
+m|3|p|Ariogala|Ariogala|yra|Miestas kairiajame Dubysos krante, prie senojo Žemaičių plento.
+m|3|p|Švenčionys|Švenčionys|yra|Miestas rytų Lietuvoje, 84 km nuo Vilniaus ir apie 5 km nuo sienos su Baltarusija.
+m|3|p|Skuodas|Skuodas|yra|Miestas Žemaitijoje, vos 2 km nuo Latvijos sienos.
+m|3|p|Pagėgiai|Pagėgiai|yra|Miestas Klaipėdos krašte, 30 km į pietvakarius nuo Tauragės.
+m|3|p|Joniškis|Joniškis|yra|Miestas 39 km į šiaurę nuo Šiaulių, 14 km nuo Latvijos sienos.
+m|3|p|Lazdijai|Lazdijai|yra|Miestas pietų Lietuvoje, 7 km nuo sienos su Lenkija.
+m|3|p|Šalčininkai|Šalčininkai|yra|Miestas Lietuvos pietryčiuose, 45 km į pietus nuo Vilniaus.
+m|3|p|Rietavas|Rietavas|yra|Miestas Žemaitijoje, 25 km į pietus nuo Plungės.
+m|3|p|Pasvalys|Pasvalys|yra|Miestas šiaurės Lietuvoje, 38 km į šiaurę nuo Panevėžio.
+p|1|p|Trakų salos pilis|Trakų salos pilis|stovi|Gotikinė pilis Galvės ežero saloje, statyta kunigaikščių Kęstučio ir Vytauto laikais.
+p|1|p|Gedimino pilies bokštas|Gedimino pilis|stovi|Vilniaus aukštutinės pilies bokštas ant Gedimino kalno.
+p|1|p|Kauno pilis|Kauno pilis|stovi|Viena seniausių Lietuvos mūrinių pilių; rašytiniuose šaltiniuose minima 1361 m.
+p|1|p|Kernavės piliakalniai|Kernavės piliakalniai|yra|Penki piliakalniai Neries slėnio šlaite – didžiausias Lietuvoje gynybinių piliakalnių kompleksas.
+p|1|p|Palangos Tiškevičių rūmai|Palangos gintaro muziejus|stovi|1897 m. pastatyti grafo Felikso Tiškevičiaus rūmai, kuriuose veikia Gintaro muziejus.
+p|1|p|Medininkų pilis|Medininkų pilis|stovi|XIV a. mūrinė gardinė pilis, 31 km nuo Vilniaus centro.
+p|1|p|Raudonės pilis|Raudonės pilis|stovi|Pilis dešiniajame Nemuno krante, Jurbarko rajone; į jos 33,5 m bokštą gali užlipti lankytojai.
+p|1|p|Panemunės pilis|Panemunės pilis|stovi|Renesanso stiliaus pilis ant aukšto Nemuno kranto Jurbarko rajone; priklauso Vilniaus dailės akademijai.
+p|1|p|Biržų pilis|Biržų pilis|stovi|Bastioninė tvirtovė Širvėnos ežero pakrantėje; joje veikia krašto muziejus „Sėla“.
+p|1|p|Raudondvario pilis|Raudondvario dvaras (Kaunas)|stovi|XVII a. renesanso pilies rūmai Raudondvaryje, dešiniajame Nevėžio krante.
+p|1|p|Pakruojo dvaras|Pakruojo dvaras|yra|Dvaras prie Kruojos upės, 2 km nuo Pakruojo.
+p|2|p|Klaipėdos pilis|Klaipėdos pilis|stovėjo|Pilis (Mėmelburgas) prie Dangės žiočių, pirmą kartą paminėta 1252 m.
+p|2|p|Rokiškio dvaras|Rokiškio dvaras|yra|16 pastatų ansamblis su parku; dvare veikia Rokiškio krašto muziejus.
+p|2|p|Plungės dvaras|Plungės dvaras|yra|Nuo 1873 m. kunigaikščio Oginskio valdytas dvaras su neorenesansiniais rūmais.
+p|2|p|Užutrakio dvaras|Užutrakio dvaras|yra|Dvaras ant Galvės ežero kranto, Trakuose.
+p|2|p|Verkių rūmai|Verkių dvaras|stovi|Dvaras Vilniuje, ant stataus Neries kranto.
+p|2|p|Šatrijos kalnas|Šatrija|stūkso|Piliakalnis Žemaitijoje, Telšių rajone, netoli Luokės.
+p|2|p|Medvėgalis|Medvėgalis|stūkso|Aukščiausia Žemaitijos kalva (234,6 m) ir didžiausias žemaičių piliakalnis, Šilalės rajone.
+p|2|p|Rambyno kalnas|Rambynas|stūkso|Kalva dešiniajame Nemuno krante, Pagėgių savivaldybėje, prie sienos su Kaliningrado sritimi.
+p|2|p|Dubingių piliavietė|Dubingių pilis|yra|Pilies liekanos ant Pilies kalno prie Asvejos ežero, netoli Dubingių.
+p|2|p|Rietavo dvaras|Rietavo dvaras|yra|Dvaras Rietave, priklausęs kunigaikščiams Oginskiams.
+p|2|p|Kretingos dvaras|Kretingos dvaras|yra|Grafų Tiškevičių valdytas dvaras su Žiemos sodu; dabar čia Kretingos muziejus.
+p|2|p|Trakų Vokės dvaras|Trakų Vokės dvaras|yra|Dvaras pusiaukelėje tarp Vilniaus ir Trakų, su Tiškevičių koplyčia-mauzoliejumi.
+p|3|p|Norviliškių pilis|Norviliškių pilis|stovi|XVI a. menanti pilis Šalčininkų rajone, Dieveniškių istoriniame regioniniame parke.
+p|3|p|Siesikų pilis|Siesikų pilis|stovi|XVI a. renesansinė rezidencija ant Siesikų ežero kranto, Ukmergės rajone.
+p|3|p|Šeimyniškėlių piliakalnis|Šeimyniškėlių piliakalnis|stūkso|Piliakalnis šiauriniame Anykščių pakraštyje, vadinamas Voruta.
+p|3|p|Punios piliakalnis|Punios piliakalnis|stūkso|Dar vadinamas Margio kalnu; stūkso dešiniajame Nemuno krante, Alytaus rajone.
+p|3|p|Seredžiaus piliakalnis|Seredžiaus I piliakalnis|stūkso|Dar vadinamas Palemono kalnu; stūkso Seredžiuje, Jurbarko rajone.
+p|3|p|Sudargo piliakalniai|Sudargo piliakalniai|yra|Piliakalnių kompleksas kairiajame Nemuno krante, Šakių rajone.
+p|3|p|Apuolės piliakalnis|Apuolės piliakalnis|stūkso|Piliakalnis Skuodo rajone; Apuolė – seniausia rašytiniuose šaltiniuose (853 m.) paminėta Lietuvos gyvenvietė.
+p|3|p|Veliuonos piliakalniai|Veliuonos piliakalniai|yra|Piliakalnių kompleksas Nemuno slėnio šlaite; vienas jų vadinamas Gedimino kapu.
+p|3|p|Bilionių piliakalnis|Bilionių piliakalnis|stūkso|Piliakalnis Šilalės rajone, netoli Laukuvos – viena iš spėjamų Pilėnų vietų.
+p|3|p|Zyplių dvaras|Zyplių dvaras|yra|Dvaras Tubelių kaime, Šakių rajone.
+p|3|p|Paežerių dvaras|Paežerių dvaras (Vilkaviškis)|yra|Klasicistinis dvaras ant Paežerių ežero kranto, Vilkaviškio rajone.
+p|3|p|Taujėnų dvaras|Taujėnų dvaras|yra|Klasicistiniai rūmai su šešių kolonų portiku Taujėnuose, Ukmergės rajone.
+p|3|p|Ilzenbergo dvaras|Ilzenbergo dvaras|yra|Dvaras Rokiškio rajone, prie pat Latvijos sienos, tarp Ilgio ir Apvaliojo ežerų.
+p|3|p|Renavo dvaras|Renavo dvaras|yra|Dvaras ant Varduvos kranto, Mažeikių rajone – vienas geriausiai išlikusių Žemaitijoje.
+p|3|p|Bistrampolio dvaras|Bistrampolio dvaras|yra|Dvaras Kučiuose, Panevėžio rajone; nuo 2003 m. čia vyksta Bistrampolio festivalis.
+p|3|p|Jašiūnų dvaras|Jašiūnų dvaras|yra|Dvaras Jašiūnuose, prie Merkio, Šalčininkų rajone.
+p|3|p|Gelgaudiškio dvaras|Gelgaudiškio dvaras|yra|XIX a. dvaro ansamblis kairiajame Nemuno krante, Šakių rajone.
+p|3|p|Alantos dvaras|Alantos dvaras|yra|Neoklasicistiniai rūmai Alantoje, Molėtų rajone; juose veikia biblioteka ir kraštotyros muziejus.
+v|1|l|Nemunas|Nemunas|teka|Ilgiausia Lietuvos upė: iš 937 km jos ilgio Lietuvai tenka 359 km.
+v|1|l|Neris|Neris|teka|Antra pagal ilgį Lietuvos upė; teka per Vilnių ir ties Kaunu įteka į Nemuną.
+v|1|a|Kuršių marios|Kuršių marios|telkšo|Nuo Baltijos jūros jas skiria Kuršių nerija; didesnė marių dalis priklauso Rusijai.
+v|1|a|Kauno marios|Kauno marios|telkšo|Didžiausias dirbtinis vandens telkinys Lietuvoje, patvenktas Nemune virš Kauno hidroelektrinės.
+v|1|a|Galvės ežeras|Galvė|telkšo|Ežeras Trakuose; vienoje jo salų stovi Trakų salos pilis.
+v|1|a|Drūkšių ežeras|Drūkšiai|telkšo|Didžiausias Lietuvos ežeras (4487 ha), tyvuliuojantis pasienyje su Baltarusija.
+v|1|a|Platelių ežeras|Platelių ežeras|telkšo|Didžiausias ir giliausias Žemaitijos ežeras, Žemaitijos nacionaliniame parke.
+v|1|l|Šventoji|Šventoji|teka|Didžiausias Neries intakas ir ilgiausia upė, tekanti vien Lietuvos teritorija.
+v|1|l|Nevėžis|Nevėžis|teka|Vidurio Lietuvos upė, dešinysis Nemuno intakas; teka per Panevėžį ir Kėdainius.
+v|1|l|Dubysa|Dubysa|teka|131 km ilgio dešinysis Nemuno intakas, tekantis pro Lyduvėnus, Betygalą ir Ariogalą.
+v|1|l|Venta|Venta|teka|Šiaurės vakarų Lietuvos ir vakarų Latvijos upė, į Baltijos jūrą įtekanti ties Ventspiliu.
+v|2|a|Tauragno ežeras|Tauragnas|telkšo|Giliausias Lietuvos ežeras, Aukštaitijos nacionaliniame parke.
+v|2|a|Asvejos ežeras|Asveja|telkšo|Dar vadinamas Dubingių ežeru; ilgiausias Lietuvos ežeras.
+v|2|a|Dusios ežeras|Dusia|telkšo|Didžiausias pietų Lietuvos ežeras, Metelių regioniniame parke.
+v|2|a|Sartų ežeras|Sartai|telkšo|Ketvirtas pagal plotą Lietuvos ežeras, Rokiškio ir Zarasų rajonuose.
+v|2|a|Vištyčio ežeras|Vištytis (ežeras)|telkšo|Ežeras Lietuvos ir Kaliningrado srities pasienyje, 3 km nuo trijų valstybių sienų sandūros.
+v|2|a|Rubikių ežeras|Rubikių ežeras|telkšo|Dar vadinamas Anykščiu; labai vingiuotų krantų ežeras, kurio kranto linija ilgesnė nei 25 km.
+v|2|a|Elektrėnų marios|Elektrėnų marios|telkšo|Tvenkinys prie Elektrėnų; jo vanduo aušina Elektrėnų elektrinę.
+v|2|a|Dysnų ežeras|Dysnai|telkšo|Antras pagal dydį Lietuvos ežeras, Ignalinos rajone, apie 2 km į pietus nuo Dūkšto.
+v|2|a|Rėkyvos ežeras|Rėkyvos ežeras|telkšo|Ežeras Šiaulių miesto savivaldybėje, apie 6 km į pietus nuo miesto centro.
+v|2|l|Minija|Minija|teka|Vakarų Lietuvos upė, dešinysis Nemuno intakas; žemupyje teka per Mingės kaimą.
+v|2|l|Merkys|Merkys|teka|Didžiausia pietryčių Lietuvos upė, dešinysis Nemuno intakas (203 km, Lietuvoje – 185 km).
+v|2|l|Šešupė|Šešupė|teka|Kairysis Nemuno intakas, tekantis per Lenkiją, Lietuvą ir Kaliningrado sritį.
+v|2|l|Mūša|Mūša|teka|Šiaurės Lietuvos upė (157 km, Lietuvoje – 133 km), per Pakruojo ir Pasvalio rajonus tekanti į Latviją.
+v|3|a|Metelio ežeras|Metelys|telkšo|Ežeras Lazdijų rajone, Metelių regioniniame parke, greta Dusios ir Obelijos.
+v|3|a|Lūšių ežeras|Lūšiai|telkšo|Ilgas rininis ežeras Aukštaitijos nacionaliniame parke, apie 4 km į vakarus nuo Ignalinos.
+v|3|a|Baluošo ežeras|Baluošas (Ignalinos r.)|telkšo|Rininis ežeras Aukštaitijos nacionaliniame parke, apie 8,5 km į šiaurės vakarus nuo Ignalinos.
+v|3|a|Luodžio ežeras|Luodis|telkšo|Šeštas pagal dydį Lietuvos ežeras, Zarasų rajone, 12 km į vakarus nuo Visagino.
+v|3|a|Avilio ežeras|Avilys (ežeras)|telkšo|Aštuntas pagal dydį Lietuvos ežeras su 31 sala, apie 8 km į vakarus nuo Zarasų.
+v|3|a|Alaušo ežeras|Alaušas|telkšo|Iki 42 m gylio ežeras Utenos rajone.
+v|3|a|Kretuono ežeras|Kretuonas|telkšo|Didžiausias Švenčionių rajono ežeras, 9 km į šiaurės rytus nuo Švenčionėlių.
+v|3|a|Seirijo ežeras|Seirijis|telkšo|Ovalus ežeras Lazdijų rajone, apie 2 km į pietus nuo Seirijų.
+v|3|a|Lūksto ežeras|Lūkstas|telkšo|Antras pagal dydį Žemaitijos ežeras prie Varnių; jame randama gintaro.
+v|3|a|Masčio ežeras|Mastis|telkšo|Ežeras pietinėje Telšių miesto dalyje.
+v|3|a|Širvėnos ežeras|Širvėna|telkšo|Seniausias Lietuvos tvenkinys, telkšantis prie Biržų.
+v|3|a|Obelijos ežeras|Obelija|telkšo|Elipsės formos ežeras Alytaus rajone, Metelių regioniniame parke.
+v|3|a|Aiseto ežeras|Aisetas|telkšo|Siauras, ilgas ir vingiuotas ežeras Molėtų ir Utenos rajonuose, netoli Labanoro.
+v|3|a|Antalieptės marios|Antalieptės marios|telkšo|1959 m. patvenkus Šventąją susidaręs tvenkinys Zarasų rajone.
+v|3|l|Jūra|Jūra (upė)|teka|Dešimta pagal ilgį Lietuvos upė, dešinysis Nemuno intakas; teka pro Rietavą ir Tauragę.
+v|3|l|Žeimena|Žeimena|teka|Rytų Lietuvos upė, dešinysis Neries intakas; prie jos įsikūrusi Pabradė.
+v|3|l|Lėvuo|Lėvuo|teka|140 km ilgio Mūšos intakas, tekantis pro Kupiškį.
+v|3|l|Nemunėlis|Nemunėlis|teka|Šiaurės Lietuvos ir Latvijos upė (191 km, Lietuvoje – 151 km), tekanti per Rokiškio ir Biržų rajonus.
+v|3|l|Šušvė|Šušvė|teka|Vidurio Lietuvos upė, dešinysis Nevėžio intakas; prasideda netoli Tytuvėnų.
+v|3|l|Ūla|Ūla|teka|84 km ilgio Merkio intakas, tekantis per Dzūkijos nacionalinį parką pro Zervynas.
+g|1|a|Aukštaitijos nacionalinis parkas|Aukštaitijos nacionalinis parkas|yra|Seniausias Lietuvos nacionalinis parkas, įkurtas 1974 m.
+g|1|a|Dzūkijos nacionalinis parkas|Dzūkijos nacionalinis parkas|yra|1991 m. įkurtas nacionalinis parkas, saugantis Dainavos krašto gamtą ir kultūrą.
+g|1|a|Žemaitijos nacionalinis parkas|Žemaitijos nacionalinis parkas|yra|1991 m. įsteigtas nacionalinis parkas Plungės ir Skuodo rajonuose.
+g|1|a|Trakų istorinis nacionalinis parkas|Trakų istorinis nacionalinis parkas|yra|1991 m. įkurtas parkas prie Trakų – vienintelis istorinis nacionalinis parkas Lietuvoje.
+g|1|p|Puntuko akmuo|Puntukas|guli|Antras pagal dydį Lietuvos riedulys, 5 km į pietus nuo Anykščių.
+g|1|p|Parnidžio kopa|Parnidžio kopa|stūkso|52 m aukščio pustoma kopa į pietus nuo Nidos.
+g|1|p|Ventės ragas|Ventės ragas|yra|Pusiasalis Kuršių marių pakrantėje, garsus paukščių žiedavimo stotimi.
+g|1|p|Aukštojo kalnas|Aukštojas|stūkso|Aukščiausias Lietuvos taškas, Medininkų aukštumoje, apie 24 km nuo Vilniaus.
+g|1|p|Stelmužės ąžuolas|Stelmužės ąžuolas|auga|Seniausias ir storiausias Lietuvos ąžuolas – jam apie 1500 metų.
+g|1|a|Čepkelių rezervatas|Čepkelių valstybinis gamtinis rezervatas|plyti|Rezervatas Varėnos rajone prie sienos su Baltarusija, greta Dzūkijos nacionalinio parko.
+g|1|a|Labanoro regioninis parkas|Labanoro regioninis parkas|yra|Parkas Švenčionių, Molėtų ir Utenos rajonuose, 1992 m. įsteigtas Labanoro giriai saugoti.
+g|1|a|Nemuno deltos regioninis parkas|Nemuno deltos regioninis parkas|yra|Parkas Kuršių marių pietrytinėje pakrantėje; jo direkcija įsikūrusi Šilutėje.
+g|2|a|Žuvinto biosferos rezervatas|Žuvinto biosferos rezervatas|plyti|Pirmasis ir vienintelis biosferos rezervatas Lietuvoje.
+g|2|p|Olando Kepurė|Olando Kepurė|stūkso|24,4 m aukščio skardis Baltijos pakrantėje prie Karklės.
+g|2|a|Pajūrio regioninis parkas|Pajūrio regioninis parkas|yra|Parkas prie Baltijos jūros (direkcija Karklėje); daugiau nei pusę jo ploto užima jūra.
+g|2|r3|Punios šilas|Punios šilas|ošia|27 km² miškas Alytaus rajone, apjuostas Nemuno kilpos.
+g|2|r4|Negyvosios kopos|Naglių gamtinis rezervatas|plyti|Naglių gamtinis rezervatas Kuršių nerijoje, 9 km besitęsiantis tarp Juodkrantės ir Pervalkos.
+g|2|p|Ladakalnis|Ladakalnis|stūkso|176 m aukščio kalva Aukštaitijos nacionaliniame parke, nuo kurios matyti šeši ežerai.
+g|2|a|Kamanų rezervatas|Kamanų rezervatas|plyti|1979 m. įsteigtas rezervatas Akmenės rajone; du trečdalius jo ploto užima pelkės.
+g|2|a|Kurtuvėnų regioninis parkas|Kurtuvėnų regioninis parkas|yra|Parkas Ventos ir Dubysos takoskyroje, Rytų Žemaičių aukštumos pakraštyje.
+g|2|a|Dieveniškių istorinis regioninis parkas|Dieveniškių istorinis regioninis parkas|yra|Parkas pietryčių Lietuvoje; jo direkcija ir lankytojų centras – Poškonyse.
+g|2|p|Barstyčių akmuo|Barstyčių akmuo|guli|Didžiausias Lietuvos riedulys, gulintis Puokės kaime, Skuodo rajone.
+g|2|a|Neries regioninis parkas|Neries regioninis parkas|yra|Parkas abipus Neries tarp Vilniaus ir Kernavės; miškai užima 87 % jo ploto.
+g|2|a|Dubysos regioninis parkas|Dubysos regioninis parkas|yra|Parkas, saugantis Dubysos slėnį; didžioji jo dalis – Raseinių rajone.
+g|2|a|Aukštadvario regioninis parkas|Aukštadvario regioninis parkas|yra|Parkas Trakų rajone, į vakarus nuo Vilniaus; direkcija – Aukštadvaryje.
+g|3|a|Viešvilės rezervatas|Viešvilės gamtinis rezervatas|plyti|1991 m. įsteigtas rezervatas į šiaurę nuo Viešvilės, saugantis Viešvilės upelio baseiną.
+g|3|p|Karvės ola|Karvės ola|yra|Karstinė smegduobė su ola Biržų regioniniame parke.
+g|3|p|Velnio duobė|Velnio duobė|yra|Geologinis gamtos paminklas 4 km nuo Aukštadvario, Trakų rajone.
+g|3|a|Varnių regioninis parkas|Varnių regioninis parkas|yra|Parkas, saugantis centrinį Žemaičių ežeruotą kalvyną.
+g|3|a|Gražutės regioninis parkas|Gražutės regioninis parkas|yra|Ežeringas ir miškingas parkas Šventosios aukštupyje, daugiausia Zarasų rajone; direkcija – Salake.
+g|3|a|Veisiejų regioninis parkas|Veisiejų regioninis parkas|yra|Parkas pietvakarių Lietuvoje, saugantis miškingą Veisiejų ežeryną.
+g|3|a|Ventos regioninis parkas|Ventos regioninis parkas|yra|Parkas šiaurės vakarų Lietuvoje palei Ventą; direkcija – Viekšniuose.
+g|3|a|Žagarės regioninis parkas|Žagarės regioninis parkas|yra|Parkas prie sienos su Latvija, saugantis Švėtės paslėnius.
+g|3|a|Salantų regioninis parkas|Salantų regioninis parkas|yra|Parkas šiaurės vakarų Lietuvoje, saugantis Erlos, Salanto ir Minijos senslėnį.
+g|3|a|Pagramančio regioninis parkas|Pagramančio regioninis parkas|yra|Parkas Šilalės ir Tauragės rajonuose, Akmenos ir Jūros santakoje.
+g|3|a|Panemunių regioninis parkas|Panemunių regioninis parkas|yra|Parkas vakarų Lietuvoje palei Nemuną, saugantis ir istorinę Nemuno gynybinę liniją.
+g|3|a|Krekenavos regioninis parkas|Krekenavos regioninis parkas|yra|Parkas Panevėžio ir Kėdainių rajonuose, saugantis Nevėžio vidurupio paslėnį.
+g|3|a|Sirvėtos regioninis parkas|Sirvėtos regioninis parkas|yra|Parkas rytų Lietuvoje, Švenčionių krašte; direkcija – Šventos kaime.
+i|1|p|Kryžių kalnas|Kryžių kalnas|yra|Piligrimystės vieta ant Jurgaičių piliakalnio, 12 km į šiaurę nuo Šiaulių.
+i|1|a|Kuršių nerija|Kuršių nerija|yra|Smėlio kopų pusiasalis tarp Kuršių marių ir Baltijos jūros, nuo 2000 m. – UNESCO pasaulio paveldas.
+i|1|p|Europos geografinis centras|Europos geografinis centras|yra|1989 m. Prancūzijos nacionalinio geografijos instituto nustatytas žemyno centras, 26 km į šiaurę nuo Vilniaus.
+i|1|p|Vilniaus televizijos bokštas|Vilniaus televizijos bokštas|stovi|Aukščiausias Lietuvos statinys, stovintis Karoliniškėse.
+i|1|p|Palangos tiltas|Palangos tiltas|yra|470 m ilgio tiltas į Baltijos jūrą.
+i|1|p|Trijų kryžių paminklas|Trijų kryžių paminklas|stovi|Trys balti gelžbetoniniai kryžiai ant Kreivojo kalno Vilniuje, sukurti pagal Antano Vivulskio projektą.
+i|1|p|Aušros vartai|Aušros vartai|stovi|Vieninteliai išlikę Vilniaus gynybinės sienos vartai.
+i|1|p|Lietuvos jūrų muziejus|Lietuvos jūrų muziejus|yra|Muziejus Kopgalyje, šiauriausiame Kuršių nerijos taške; nuo 1994 m. čia veikia delfinariumas.
+i|1|p|Rumšiškių muziejus po atviru dangumi|Lietuvos liaudies buities muziejus|yra|1974 m. atidarytas Lietuvos etnografijos (anksčiau – Liaudies buities) muziejus Kauno marių pakrantėje.
+i|1|p|Pažaislio vienuolynas|Pažaislio vienuolynas|stovi|Vienuolyno ansamblis Kauno marių pakrantėje, Kaune; piligrimystės vieta.
+i|1|p|Raganų kalnas|Raganų kalnas|yra|42 m aukščio kopa Juodkrantėje su 1979 m. įrengtu tautodailės skulptūrų parku.
+i|1|p|Grūto parkas|Grūto parkas|yra|2001 m. atidaryta sovietmečio skulptūrų ekspozicija netoli Druskininkų.
+i|2|p|Europos parkas|Europos parkas|yra|1991 m. Gintaro Karoso įkurtas 55 ha muziejus po atviru dangumi, 19 km į šiaurę nuo Vilniaus centro.
+i|2|p|Šiluva|Šiluva|yra|Miestelis Raseinių rajone, garsus barokine Švč. Mergelės Marijos Gimimo bazilika.
+i|2|p|Žemaičių Kalvarija|Žemaičių Kalvarija|yra|Miestelis Žemaitijos nacionaliniame parke prie Varduvos; iki 1637 m. vadinosi Gardai.
+i|2|p|Ignalinos atominė elektrinė|Ignalinos atominė elektrinė|stovi|Vienintelė Baltijos šalyse veikusi atominė elektrinė; nuo 2010 m. ji uždaroma.
+i|2|p|Kauno IX fortas|Kauno IX fortas|yra|Kauno tvirtovės fortas šiaurinėje miesto dalyje; nuo 1959 m. jame veikia muziejus.
+i|2|p|Anykščių medžių lajų takas|Anykščių šilelio medžių lajų takas|yra|Apie 300 m ilgio takas medžių lajų lygyje Anykščių šilelyje – pirmasis toks Baltijos šalyse.
+i|2|p|Lietuvos etnokosmologijos muziejus|Lietuvos etnokosmologijos muziejus|yra|Muziejus ir observatorija Molėtų rajone, prie Kulionių kaimo.
+i|2|p|Kruonio hidroakumuliacinė elektrinė|Kruonio hidroakumuliacinė elektrinė|stovi|Vienintelė hidroakumuliacinė elektrinė Baltijos šalyse, Kaišiadorių rajone prie Kauno marių.
+i|2|p|Šaltojo karo muziejus|Šaltojo karo muziejus|yra|Įrengtas buvusioje sovietų raketų bazėje Plokštinės miške, Žemaitijos nacionaliniame parke.
+i|2|p|Panerių memorialas|Panerių memorialas|yra|Memorialas Panerių miške Vilniaus pietvakariuose, skirtas 1941–1944 m. žudynių aukoms atminti.|@54.62749,25.16214
+i|2|p|Lietuvos geografinis centras|Ruoščiai|yra|Prie Ruoščių kaimo Kėdainių rajone esantis centras, pažymėtas trimis granito luitais.|@55.32988,23.90553
+i|2|p|Kauno Kristaus Prisikėlimo bazilika|Kauno Kristaus Prisikėlimo bazilika|stovi|Didžiausia bazilikinė bažnyčia Baltijos šalyse, Kauno modernizmo paminklas.
+i|2|p|Anykščių Šv. Mato bažnyčia|Anykščių Šv. apaštalo evangelisto Mato bažnyčia|stovi|Aukščiausia Lietuvos bažnyčia – jos bokštai siekia 79 m.
+i|2|p|Arklio muziejus|Arklio muziejus|yra|Muziejus Niūronių kaime prie Anykščių, rašytojo Jono Biliūno gimtinėje.
+i|3|p|Orvidų sodyba|Orvidų sodyba|yra|Akmens skulptūrų muziejus Gargždelės kaime, Kretingos rajone.
+i|3|p|Tytuvėnų vienuolynas|Tytuvėnų vienuolynas|stovi|XVII a. pradžioje įkurtas bernardinų vienuolynas – vienas žymiausių baroko paminklų Lietuvoje.
+i|3|p|Liškiavos vienuolynas|Liškiavos Švč. Trejybės bažnyčia|stovi|Vėlyvojo baroko bažnyčios ir vienuolyno ansamblis kairiajame Nemuno krante, 9 km nuo Druskininkų.
+i|3|p|Zervynos|Zervynos|yra|Etnografinis gatvinis kaimas abipus Ūlos, Dzūkijos nacionaliniame parke.
+i|3|p|Lyduvėnų tiltas|Lyduvėnų tiltas|yra|Ilgiausias (599 m) ir aukščiausias (42 m) Lietuvos tiltas – geležinkelio tiltas per Dubysos slėnį.
+i|3|p|Struvės lanko punktas Meškonyse|Meškonys|yra|UNESCO saugomas Struvės geodezinio lanko punktas ant kalno prie Meškonių kaimo, Vilniaus rajone.
+i|3|p|Kirkilų apžvalgos bokštas|Kirkilų apžvalgos bokštas|stovi|2015 m. atidarytas 32 m aukščio grimztančios valties formos bokštas Biržų rajone.
+i|3|p|Merkinės piramidė|Merkinės piramidė|stovi|Lankoma šventvietė Merkio slėnyje, Česukų kaime, į pietus nuo Merkinės.
+i|3|p|Uostadvario švyturys|Uostadvario švyturys|stovi|Aštuonkampis raudonų plytų švyturys Nemuno deltoje, Šilutės rajone.
+i|3|p|Nidos švyturys|Nidos švyturys|stovi|Švyturys ant Urbo kalno Nidoje; jo šviesa matoma už 22 jūrmylių.
+i|3|p|Kėdainių minaretas|Kėdainių minaretas|stovi|1880 m. pastatytas vienintelis Lietuvoje laisvai stovintis minaretas.
+i|3|p|Zapyškio senoji bažnyčia|Zapyškio Šv. Jono Krikštytojo bažnyčia|stovi|Senoji Šv. Jono Krikštytojo bažnyčia Nemuno pakrantėje, Kauno rajone.
+i|3|p|Pivašiūnų bažnyčia|Pivašiūnų Švč. Mergelės Marijos Ėmimo į dangų bažnyčia|stovi|Piligrimų lankoma bažnyčia, garsėjanti Dievo Motinos paveikslu.
+i|3|p|Ablingos memorialas|Ablinga|yra|Nuo 1972 m. Ablingos kaime, Klaipėdos rajone, stovintis memorialinis ansamblis.
+i|3|p|Pirčiupių „Motina“|Pirčiupiai|stovi|Paminklas 1944 m. sudeginto Pirčiupių kaimo aukoms, Varėnos rajone prie Rūdninkų girios.
+i|3|p|Švėkšnos bažnyčia|Švėkšnos Šv. apaštalo Jokūbo bažnyčia|stovi|Šv. apaštalo Jokūbo bažnyčia Švėkšnos miestelio centre.
+i|3|p|Palūšės bažnyčia|Palūšės Šv. Juozapo bažnyčia|stovi|Bažnyčia Lūšių ežero pakrantėje su vienintele Lietuvoje aštuonkampe varpine.
+i|3|p|Naisiai|Naisiai|yra|Kaimas Šiaulių rajono rytuose, kuriame veikia Šiaulių rajono literatūros muziejus.
+i|3|p|Rainių kančios koplyčia|Rainių kančios koplyčia|stovi|Koplyčia Rainių kaime, apie 5 km nuo Telšių, pastatyta sovietų žudynių aukoms atminti.
